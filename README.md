@@ -1,3 +1,3 @@
-# time
+# Time
 
-## Testing github releases witb C++
+## Testing Github releases with C++
